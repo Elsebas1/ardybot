@@ -76,4 +76,4 @@ Los errores y respuestas parciales son del mismo tipo: confundir un lugar con su
 - El documento no trae horarios, precios ni personas: el bot debe declinar esas preguntas.
 
 ## Autor
-Sebastián Gómez, Universidad de Ibagué.
+Juan Sebastián Gómez y Juan David Romero Universidad de Ibagué.
