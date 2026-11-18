@@ -10,11 +10,19 @@ Arquitectura RAG: recuperación híbrida (BM25 + embeddings) + clasificador de r
 
 ## Instalación
 ```
+MAC
 git clone https://github.com/Elsebas1/ardybot.git
 cd ardybot
 python3 -m venv .venv
 source .venv/bin/activate
 python3 -m pip install -r requirements.txt
+
+Windows
+git clone https://github.com/Elsebas1/ardybot.git
+cd ardybot
+py -m venv .venv
+.venv\Scripts\Activate.ps1
+py -m pip install -r requirements.txt
 ```
 
 ## Uso
